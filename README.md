@@ -1,16 +1,53 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**anamenos/anamenos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hey there! I'm Anil, a passionate software developer with a love for creating and learning about various technologies. I enjoy working on a diverse range of projects, from web development to security testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Skills
+
+Here's a list of technologies and skills I'm experienced with:
+
+### Front-end & Web Development
+- Next.js
+- React.js
+- JavaScript
+- Tailwind CSS
+
+### Back-end & Databases
+- Node.js
+- Prisma
+- Java
+- Spring Framework
+- Spring Boot
+
+### DevOps & Tools
+- Docker
+- Kali Linux
+- Burp Suite
+
+### Other Interests
+- Ruby
+- Ruby on Rails
+
+## Get in Touch
+
+You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaboration or if you have any questions.
+
+## Tech Stack
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
+![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blueviolet?logo=tailwind-css&style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-green?logo=prisma&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)
+![Java](https://img.shields.io/badge/-Java-orange?logo=java&style=flat)
+![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring-boot&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&style=flat)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?logo=kalilinux&style=flat)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-red?style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&style=flat)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails&style=flat)
+
