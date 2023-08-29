@@ -52,9 +52,9 @@ You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaborat
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails&style=flat)
 
 ## Usage of Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamenos&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Total Contribution for current year
-[![Anamenos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamenos&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Anamenos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamenos)](https://github.com/anuraghazra/github-readme-stats)
 
