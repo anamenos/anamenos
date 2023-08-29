@@ -35,7 +35,7 @@ Here's a list of technologies and skills I'm experienced with:
 You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaboration or if you have any questions.
 
 ## Tech Stack
-![Typescript](https://img.shields.io/badge/-Typescript-white?logo=typescript&style=flat)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat)
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat)
@@ -52,4 +52,5 @@ You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaborat
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails&style=flat)
 
 
-https://img.shields.io/github/languages/top/anamenos
+[![Anamenos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamenos&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
