@@ -38,8 +38,6 @@ You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaborat
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blueviolet?logo=tailwind-css&style=flat)
-![Prisma](https://img.shields.io/badge/-Prisma-green?logo=prisma&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&style=flat)
 ![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&style=flat)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring-boot&style=flat)
