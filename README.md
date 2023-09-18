@@ -15,8 +15,6 @@ Here's a list of technologies and skills I'm experienced with:
 - Tailwind CSS
 
 ### Back-end & Databases
-- Node.js
-- Prisma
 - Java
 - Spring Framework
 - Spring Boot
