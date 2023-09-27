@@ -1,9 +1,3 @@
-# Welcome to My GitHub Profile!
-
-## About Me
-
-Hey there! I'm Anil, a passionate software developer with a love for creating and learning about various technologies. I enjoy working on a diverse range of projects, from web development to security testing.
-
 ## Technologies & Skills
 
 Here's a list of technologies and skills I'm experienced with:
@@ -14,23 +8,20 @@ Here's a list of technologies and skills I'm experienced with:
 - JavaScript
 - Tailwind CSS
 
-### Back-end & Databases
-- Java
-- Spring Framework
-- Spring Boot
-
 ### DevOps & Tools
 - Docker
 - Kali Linux
 - Burp Suite
 
-### Other Interests
-- Ruby
-- Ruby on Rails
+### Database & ORM
+- Prisma ORM
+- Drizzle ORM
 
-## Get in Touch
+### Full Stack
+- t3stack
 
-You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaboration or if you have any questions.
+### Back-end
+- Node.js
 
 ## Tech Stack
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?logo=typescript&style=flat)
@@ -38,19 +29,10 @@ You can reach me at anil.demir@aol.com(mailto:anil.demir@aol.com) for collaborat
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blueviolet?logo=tailwind-css&style=flat)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&style=flat)
-![Spring](https://img.shields.io/badge/-Spring-brightgreen?logo=spring&style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring-boot&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&style=flat)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-black?logo=kalilinux&style=flat)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-red?style=flat)
-![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&style=flat)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?logo=ruby-on-rails&style=flat)
-
-## Usage of Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamenos&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Total Contribution for current year
-[![Anamenos's GitHub stats](https://github-readme-stats.vercel.app/api?username=anamenos)](https://github.com/anuraghazra/github-readme-stats)
-
+![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-green?style=flat)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-blue?style=flat)
+![t3stack](https://img.shields.io/badge/-t3stack-purple?style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&style=flat)
